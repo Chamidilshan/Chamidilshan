@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chamidilshan
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning android app development
+- 👋 Hi, I’m @Chamika Dilshan
+- 👀 I’m interested in android and iOS mobile app development
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - by chamidilshan@ms.ac.lk email
 

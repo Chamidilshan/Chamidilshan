@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="left">- 👋 Hi, I’m @Chamika Dilshan<br><br>- 📖 Pursuing Computer Science @ [University of Ruhuna](https://www.ruh.ac.lk/index.php/en/)<br><br>- 👀 I’m interested in android and iOS mobile app development with Flutter<br><br>- 🌱 I’m currently learning Machine Learning<br><br>- 💞️ I’m looking to collaborate on projects<br><br>- 📫 How to reach me - by chamidilshan@ms.ac.lk email</h6>
+<p align="left">- 👋 Hi, I’m Chamika Dilshan<br><br>- 👀 I’m interested in android and iOS mobile app development with Flutter<br><br>- 🌱 I’m currently learning Machine Learning<br><br>- 💞️ I’m looking to collaborate on projects<br><br>- 📫 How to reach me - by chamidilshan@ms.ac.lk email</p>
 
 ###
 

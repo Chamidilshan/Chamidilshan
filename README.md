@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="260" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="280" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h3>- 👋 Hi, I’m Chamika Dilshan<br><br>- 👀 I’m interested in android and iOS mobile app development with Flutter<br><br>- 🌱 I’m currently learning Machine Learning<br><br>- 💞️ I’m looking to collaborate on projects<br><br>- 📫 How to reach me - by chamidilshan@ms.ac.lk email</h3>
+<h4>- 👋 Hi, I’m Chamika Dilshan<br><br>- 👀 I’m interested in android and iOS mobile app development with Flutter<br><br>- 🌱 I’m currently learning Machine Learning<br><br>- 💞️ I’m looking to collaborate on projects<br><br>- 📫 How to reach me - by chamidilshan@ms.ac.lk email</h4>
 
 ###
 
@@ -90,9 +90,6 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
-
-</br>
-</br>
 
 
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="260" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h4>- 👋 Hi, I’m Chamika Dilshan<br><br>- 👀 I’m interested in android and iOS mobile app development with Flutter<br><br>- 🌱 I’m currently learning Machine Learning<br><br>- 💞️ I’m looking to collaborate on projects<br><br>- 📫 How to reach me - by chamidilshan@ms.ac.lk email</h4>
+<h3>- 👋 Hi, I’m Chamika Dilshan<br><br>- 👀 I’m interested in android and iOS mobile app development with Flutter<br><br>- 🌱 I’m currently learning Machine Learning<br><br>- 💞️ I’m looking to collaborate on projects<br><br>- 📫 How to reach me - by chamidilshan@ms.ac.lk email</h3>
 
 ###
 
@@ -94,9 +94,7 @@
 </br>
 </br>
 
-<div align="center">
-  <img height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f585gtzpxom8lxnfbmeran4mlbe9galh1xpdcryr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+
 
 ###
 
